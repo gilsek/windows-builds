@@ -4,8 +4,8 @@
     "rel": "1"
   },
   "git": {
-    "repo": "https://github.com//streamlink.git",
-    "ref": "5.0.1"
+    "repo": "https://github.com/gilsek/streamlink.git",
+    "ref": "master"
   },
   "assets": {
     "ffmpeg-x86": {
